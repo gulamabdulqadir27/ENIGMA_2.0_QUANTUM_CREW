@@ -182,9 +182,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests for:
 - Additional EEG channel support
 - Real ML model integration
 - UI/UX enhancements
-
----
-
-<p align="center">
-  Built with ❤️ using React
-</p>
